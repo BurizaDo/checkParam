@@ -1,0 +1,22 @@
+{
+  "name": "checkparam",
+  "version": "1.0.1",
+  "description": "check the url parameters and send error if necessary param doesn't exist",
+  "main": "checkParam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurizaDo/checkParam.git"
+  },
+  "keywords": [
+    "url"
+  ],
+  "author": "BurizaDo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BurizaDo/checkParam/issues"
+  },
+  "homepage": "https://github.com/BurizaDo/checkParam#readme"
+}
